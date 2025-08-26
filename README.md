@@ -1,4 +1,4 @@
-# Front End Simple Project
+# Front End Simple Projects
 
 A collection of small front-end projects built with plain **HTML**, **CSS**, and **JavaScript**. Each project is self-contained in its own folder and demonstrates a small, focused UI interaction or utility.
 
@@ -30,7 +30,7 @@ python -m http.server 8000
 ## Recommended structure
 
 ```
-front-end-simple-project/
+front-end-simple-projects/
 ├─ budget-website/
 │  ├─ index.html
 │  ├─ style.css
